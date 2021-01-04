@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  4 00:02:16 2021
 
-@author: Razer Blade
+"""
+
+@author: Reda Zerrari
 """
 
 def clean_data(data):
